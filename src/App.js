@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        아이티그라운드 코드 과제
+        아이티그라운드 코드 과제(KJH)
       </header>
     </div>
   );
